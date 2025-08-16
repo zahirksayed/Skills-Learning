@@ -140,12 +140,41 @@ This is a thoroughly enhanced and modernized resource—based on your detailed f
 
 These references are critical for up-to-date, professional guidance:
 
-- **Editors/IDEs:** [VS Code Docs], [JetBrains Docs][2][1]
-- **Version Control:** [Git Docs], [GitHub Docs][3][4]
-- **Python:** [PyCharm], [pytest], [Flask], [Django][5][6][7][8]
-- **Java:** [IntelliJ], [Maven], [JUnit], [Spring Boot], [Gradle][9][10][11][12][13]
-- **Databases:** [Postman], [Swagger], [MySQL Workbench], [pgAdmin][14][15][16][17]
-- **DevOps/Cloud/Security:** [Docker], [Jenkins], [Terraform], [Kubernetes], [AWS Training], [OWASP ZAP][18][19][20][21]
+## **Reference Material (One-Place Guide)**
+
+### **General**
+- [GitHub Docs](https://docs.github.com/)
+- [VS Code Documentation](https://code.visualstudio.com/docs)
+- [JetBrains IDEs Guides](https://www.jetbrains.com/help/)
+- [Git Official Docs](https://git-scm.com/doc)
+
+### **Python Specific**
+- [PyCharm Documentation](https://www.jetbrains.com/pycharm/documentation/)
+- [pip User Guide](https://pip.pypa.io/en/stable/user_guide/)
+- [pytest Docs](https://docs.pytest.org/en/7.1.x/)
+- [Flask Docs](https://flask.palletsprojects.com/en/2.3.x/)
+- [Django Docs](https://docs.djangoproject.com/en/4.0/)
+
+### **Java Specific**
+- [IntelliJ IDEA Documentation](https://www.jetbrains.com/idea/documentation/)
+- [Maven User Guide](https://maven.apache.org/guides/index.html)
+- [JUnit Documentation](https://junit.org/junit5/docs/)
+- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+- [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
+
+### **Web/Database/API**
+- [Postman Learning Center](https://learning.postman.com/docs/getting-started/introduction/)
+- [Swagger/OpenAPI Docs](https://swagger.io/docs/)
+- [MySQL Workbench Manual](https://dev.mysql.com/doc/workbench/en/)
+- [pgAdmin Documentation](https://www.pgadmin.org/docs/)
+
+### **DevOps/Cloud/Security**
+- [Docker Getting Started](https://docs.docker.com/get-started/)
+- [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+- [Terraform Docs](https://www.terraform.io/docs/)
+- [Kubernetes Docs](https://kubernetes.io/docs/)
+- [AWS Training & Certification](https://aws.amazon.com/training/)
+- [OWASP ZAP Getting Started](https://www.zaproxy.org/getting-started/)
 
 ***
 
