@@ -162,27 +162,3 @@ These references are critical for up-to-date, professional guidance:
 Treat each new tool as a step in solving real business problems, not just a skill on your resume. Master integration, automation, and collaboration to become indispensable to any modern development team.
 
 ***
-
-Let me know if you’d like a tailored roadmap for a specific tech stack, project type, or team workflow!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/93851047/aa6267cc-75c9-41d9-9a95-65371db25d38/dev-tools.txt
-[2] https://dev.to/rubanginosingh/10-essential-tools-every-developer-should-know-about-1f4f
-[3] https://www.reddit.com/r/learnprogramming/comments/n5v5ts/what_are_some_programming_tools_that_every/
-[4] https://livewiresoftwarecourses.com/must-have-full-stack-developer-tools/
-[5] https://javarevisited.blogspot.com/2018/01/10-tools-every-software-developer-know.html
-[6] https://www.linkedin.com/pulse/essential-tools-every-full-stack-developer-should-fnsof
-[7] https://dev.to/respect17/essential-developer-productivity-tools-every-developer-should-use-in-2025-62m
-[8] https://www.simplilearn.com/software-development-tools-article
-[9] https://www.geeksforgeeks.org/full-stack-development-tools/
-[10] https://www.qodo.ai/blog/best-ai-coding-assistant-tools/
-[11] https://pieces.app/blog/top-10-ai-tools-for-developers
-[12] https://loopstudio.dev/best-software-development-tools/
-[13] https://www.browserstack.com/guide/web-development-tools
-[14] https://roadmap.sh/backend/developer-tools
-[15] https://www.index.dev/blog/essential-tools-full-stack-development
-[16] https://www.atlassian.com/agile/project-management/roadmap-tools
-[17] https://distantjob.com/blog/best-front-end-development-tools/
-[18] https://talentsprint.com/blog/how-to-become-a-full-stack-developer-in-2025
-[19] https://dovetail.com/product-development/best-product-roadmap-tools/
-[20] https://pwskills.com/blog/14-top-web-development-tools-in-2025-for-beginners-and-advanced-developers/
-[21] https://binmile.com/blog/software-development-tools/
